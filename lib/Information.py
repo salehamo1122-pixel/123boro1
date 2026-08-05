@@ -1,6 +1,6 @@
 from .library import *
 
-admin_user_id = 6642473599 #<--- آیدی ادمین
+admin_user_id = 8867939674 #<--- آیدی ادمین
 api_id = 32652890 #<--- آی پی آی آیدی
 api_hash = 'd643d86f2a2f379addc4c4aa46e81d6c' #<--- ای پی آی هش
 helper_username = 'Saleh4E12bot' #<--- یوزر ربات هلپر بدون @
